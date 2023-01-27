@@ -30,10 +30,7 @@ def gcd():
             hcf=i
     print("GCD of two numbers is :",hcf) 
 ```
-
-## Output:
-![gcd of two number](/gcd.PNG)
-
-
+## OUTPUT:
+![gcd3](https://user-images.githubusercontent.com/118707756/215065609-5936665d-60a9-4d65-af93-0140b4db19e4.jpg)
 ## Result:
 Thus the program to find the GCD of two numbers is written and verified using python programming.
